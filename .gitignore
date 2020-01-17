@@ -1,3 +1,4 @@
 .ipynb_checkpoints/
 model/svm*.sav
 model/mlp*.sav
+__pycache__/
